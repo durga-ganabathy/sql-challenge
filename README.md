@@ -2,10 +2,10 @@
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 Data Modeling:
-After inspecting the CSV files, an Entity Relationship Diagram of the tables is created using QuickDBDLinks tool. 
+After inspecting the CSV files, an Entity Relationship Diagram of the table is created using QuickDBDLinks tool. 
 
 Data Engineering:
-A table schema is created for each of the six CSV files. The data types, primary keys, foreign keys, and other constraints are specified. Then I Imported each CSV file into its corresponding SQL table.
+A table schema is created for each of the six CSV files. The data types, primary keys, foreign keys, and other constraints are specified. Then each CSV file is imported into its corresponding SQL table.
 
 Data Analysis:
  1. List the employee number, last name, first name, sex, and salary of each employee.
